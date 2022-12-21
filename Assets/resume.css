@@ -1,0 +1,36 @@
+h1 {
+  display: flex;
+  justify-content: space-between;
+  color: #fff;
+  text-decoration-color: #fff;
+}
+  
+
+  nav{
+    display: flex;
+    justify-content: end;
+    margin-right: 200px;
+    flex-wrap: wrap;
+    border: solid blue;
+    background-color: green;
+    
+  }
+
+  .charger{
+    width: 80%;
+  }
+
+
+  .oldschool{
+    width: 40%;
+  }
+  .caption{
+    color: white;
+    margin-top: -40px;
+  }
+
+
+
+    
+
+    footer{border: solid yellow}
